@@ -1,0 +1,118 @@
+{
+  "slug": "pearlclear",
+  "box": 255,
+  "date": "2026-12-22",
+  "title": "PearlClear",
+  "question": "How does an oyster make a pearl?",
+  "hook": "Forget the grain of sand. A pearl starts when a few shell-making cells end up in the wrong place, then grows thousands of layers each thinner than a bacterium. Open an oyster, grow a pearl, and see why it shines.",
+  "thumbText": "HOW PEARLS GROW",
+  "field": "nature",
+  "minutes": 14,
+  "tags": [
+    "pearl",
+    "oyster",
+    "nacre",
+    "mother of pearl",
+    "biomineralization",
+    "iridescence",
+    "thin film interference",
+    "cultured pearls",
+    "nature",
+    "biology",
+    "materials",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A shell-making skin",
+      "text": "A pearl oyster is a soft animal between two hinged shells. Lining them is the mantle, a sheet of tissue whose outer cells build the shell: an organic skin, a layer of prisms, then on the inside layer after layer of nacre, or mother-of-pearl. A pearl is made of the same nacre by the same kind of cell."
+    },
+    {
+      "title": "Not a grain of sand",
+      "text": "Sand rarely starts a pearl. Grit between the mantle and the shell is usually flushed out, or coated onto the shell as a blister. A loose pearl needs mantle cells inside the soft tissue. A burrowing parasite or an injury can drag a few in. They multiply into a pocket, the pearl sac, and coat whatever is inside with nacre."
+    },
+    {
+      "title": "Bricks and mortar",
+      "text": "Nacre is a wall of flat aragonite tablets, about half a micrometre thick and 5 to 8 micrometres wide, glued by organic mortar 10 to 30 nanometres thick. One pearl imaged in full detail held 2,615 layers laid over 548 days, four or five a day. Growth rates vary with species and water."
+    },
+    {
+      "title": "Why it is tough",
+      "text": "Plain aragonite is brittle as chalk. In nacre a crack has to zigzag through the mortar around each tablet, and the tablets slide and grip as it goes. Nacre can absorb up to about a thousand times more energy before breaking than the pure mineral, so engineers copy its design."
+    },
+    {
+      "title": "Colour from layers",
+      "text": "Each boundary between tablet and mortar reflects a little light. Where the extra trip between layers is a whole number of wavelengths, the reflections add up. That is thin-film interference repeated hundreds of times. Tilt a pearl and the colour shifts. Pigment gives the body colour, and interference gives the overtone."
+    },
+    {
+      "title": "A bead and a scrap of skin",
+      "text": "Kokichi and Ume Mikimoto grew half-pearls in 1893. Tatsuhei Mise patented round cultured pearls in 1907, and Tokichi Nishikawa filed for the same method. A technician slips a shell bead and a square of donor mantle into a living oyster. The cells grow round the bead and coat it in nacre over months or years."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Mantle",
+      "def": "The sheet of tissue that lines a mollusc's shell. Its outer epithelial cells secrete the shell and pearls."
+    },
+    {
+      "term": "Nacre",
+      "def": "Mother-of-pearl: the iridescent inner layer of many shells and the material of pearls, made of aragonite tablets and organic mortar."
+    },
+    {
+      "term": "Aragonite",
+      "def": "A crystal form of calcium carbonate. Nacre tablets are made of it."
+    },
+    {
+      "term": "Pearl sac",
+      "def": "A closed pocket of mantle epithelial cells inside the tissue that lays nacre inward. Every pearl grows in one."
+    },
+    {
+      "term": "Blister pearl",
+      "def": "Nacre grown onto the inside of the shell over an intruder. It is part of the shell, not a loose pearl."
+    },
+    {
+      "term": "Organic matrix",
+      "def": "The thin film of proteins and chitin, 10 to 30 nanometres thick, that glues nacre's tablets together."
+    },
+    {
+      "term": "Thin-film interference",
+      "def": "Reflections from the top and bottom of thin layers that add up for some colours and cancel for others."
+    },
+    {
+      "term": "Lustre and overtone",
+      "def": "Lustre is how bright and sharp a pearl's reflections are. Overtone is a colour that seems to float over its body colour."
+    },
+    {
+      "term": "Cultured pearl",
+      "def": "A real nacre pearl grown with human help, usually from a shell bead and a square of donor mantle."
+    },
+    {
+      "term": "Mise-Nishikawa method",
+      "def": "Placing a bead and a mantle graft in an oyster's gonad: the basis of round pearl culture since the 1900s."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "pearlclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    {
+      "name": "CIE colour-matching fit (Wyman, Sloan and Shirley 2013, JCGT), a published formula reimplemented in our own code",
+      "license": "Formula cited, no code copied",
+      "url": "https://jcgt.org/published/0002/02/01/"
+    }
+  ],
+  "thumbScene": 6
+}

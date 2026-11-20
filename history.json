@@ -1,0 +1,1123 @@
+{
+  "title": "The history of the pearl",
+  "tagline": "From an 8,000-year-old pearl in Abu Dhabi to billions of farmed pearls a year, and the divers who paid for them.",
+  "intro": "For most of history, a pearl was a lucky find that cost divers dearly. People guessed it grew from dew. Naturalists then found parasites at the heart of many pearls, and Japanese inventors learned to start one on purpose with a bead and a scrap of living tissue. Today almost every pearl is farmed, and scientists study nacre's layers to build tougher materials.",
+  "eras": [
+    {
+      "id": "wild",
+      "name": "Wild pearls",
+      "from": -5800,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "For thousands of years, every pearl was a lucky find. People in the Gulf, China and the Mediterranean prized them, and told stories about how they formed."
+    },
+    {
+      "id": "empire",
+      "name": "Divers and empires",
+      "from": 1498,
+      "to": 1950,
+      "color": "#ffb547",
+      "summary": "Europe's demand drove a rush for pearls in the Americas, the Gulf and Australia. Much of the diving was forced, indebted or deadly work."
+    },
+    {
+      "id": "science",
+      "name": "Asking how pearls form",
+      "from": 77,
+      "to": 2023,
+      "color": "#8ef0ff",
+      "summary": "From dew to parasites to X-rays and electron microscopes, people slowly learned what starts a pearl and how its layers grow."
+    },
+    {
+      "id": "culture",
+      "name": "Growing pearls on purpose",
+      "from": 1250,
+      "to": 1940,
+      "color": "#ff7a59",
+      "summary": "Chinese farmers, Linnaeus and then Japanese inventors learned to make molluscs grow pearls. Japan turned it into an industry."
+    },
+    {
+      "id": "global",
+      "name": "A world of farmed pearls",
+      "from": 1954,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Australia, French Polynesia and China built new pearl farms. Cultured pearls became common, and nacre became a model for tough materials."
+    }
+  ],
+  "events": [
+    {
+      "year": -5700,
+      "date": "c. 5800–5600 BCE (found 2019)",
+      "era": "wild",
+      "art": "ball",
+      "key": true,
+      "title": "The oldest known natural pearl",
+      "who": "Neolithic people of Marawah; DCT Abu Dhabi archaeologists",
+      "where": "Marawah Island, Abu Dhabi",
+      "country": "United Arab Emirates",
+      "text": "In October 2019, archaeologists in Abu Dhabi announced a pearl from a Neolithic site on Marawah Island. Radiocarbon dating of the layer put it at about 5800 to 5600 BCE. That makes it about 8,000 years old.",
+      "why": "People were already taking pearls from Gulf oysters about 8,000 years ago.",
+      "box": "oyster",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": -5000,
+      "date": "c. 5500–5000 BCE",
+      "era": "wild",
+      "art": "ball",
+      "title": "Pearls worn as jewellery in the Gulf",
+      "who": "Neolithic Gulf communities",
+      "where": "Umm Al Quwain and other Gulf coastal sites",
+      "country": "United Arab Emirates",
+      "text": "Before the Marawah find, the oldest pearl in the UAE came from a Neolithic site at Umm Al Quwain. It was thought to be about 7,500 years old. Pierced pearls, worn as jewellery, have been found at Gulf coastal sites from around 5000 BCE.",
+      "why": "Pearls were valued as ornaments long before writing.",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": -2206,
+      "date": "2206 BCE (traditional date)",
+      "era": "wild",
+      "art": "scroll",
+      "title": "A Chinese record of pearls",
+      "who": "A Chinese historian",
+      "where": "China",
+      "country": "China",
+      "text": "GIA says a Chinese historian wrote about pearls in 2206 BCE. This is the oldest written mention it gives. Such early dates come from tradition and are hard to check.",
+      "why": "Pearls were prized in China very early, and China would later shape pearl culturing.",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": -250,
+      "date": "from at least the 3rd century BCE",
+      "era": "wild",
+      "art": "boat",
+      "title": "Bahrain's pearl beds start a long boom",
+      "who": "Gulf pearl fishers",
+      "where": "Oyster beds north of Bahrain",
+      "country": "Bahrain",
+      "text": "Bahrain's northern oyster beds fed a natural pearl fishery that led the Gulf from at least the 3rd century BCE. UNESCO dates the trade's dominance from the 2nd century. It lasted until the early 20th century.",
+      "why": "For about two thousand years, the Gulf was the world's best-known source of pearls.",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": -35,
+      "date": "1st century BCE (story told by Pliny)",
+      "era": "wild",
+      "art": "flask",
+      "title": "Cleopatra's pearl in vinegar",
+      "who": "Cleopatra and Mark Antony, as told by Pliny",
+      "where": "Egypt",
+      "country": "Egypt",
+      "text": "Pliny says Cleopatra bet Antony she could spend 10 million sesterces on one dinner. She dropped a huge pearl in vinegar and drank it. Tests in the 20th century showed vinegar dissolves a whole pearl only slowly, over hours.",
+      "why": "Pearls are mostly calcium carbonate, so acid does attack them, just not as fast as the story says.",
+      "box": "layers",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 77,
+      "date": "c. 77 CE",
+      "era": "science",
+      "art": "scroll",
+      "key": true,
+      "title": "Pliny: pearls grow from dew",
+      "who": "Pliny the Elder",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "In his Natural History, Pliny ranks the pearl above all other valuables. He says the best pearls come from the Persian Gulf. He repeats the belief that an oyster opens its shell, drinks in dew, and the dew becomes a pearl.",
+      "why": "The dew idea shows how long people guessed at what starts a pearl.",
+      "box": "start",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1250,
+      "date": "13th century",
+      "era": "culture",
+      "art": "ball",
+      "title": "Buddha figures grown in mussels",
+      "who": "Chinese mussel farmers",
+      "where": "Rivers and lakes of eastern China",
+      "country": "China",
+      "text": "GIA says Chinese farmers were making blister pearls in freshwater mussels by the 13th century. Small metal figures, often of the Buddha, were slipped inside a living mussel. The mussel coated them in nacre. A 19th-century shell in the Penn Museum shows the method, with metal moulds under the pearl coat.",
+      "why": "It was a form of pearl culturing, centuries before Japan's round pearls.",
+      "box": "farm",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1498,
+      "date": "1498–1502",
+      "era": "empire",
+      "art": "boat",
+      "title": "Columbus sees pearls in the Caribbean",
+      "who": "Christopher Columbus; Indigenous people of the Venezuelan coast",
+      "where": "Coast of present-day Venezuela",
+      "country": "Venezuela",
+      "text": "On his third voyage in 1498, Columbus saw Indigenous people wearing pearls. Pearl beds near present-day Venezuela and Panama soon fed Europe's demand. Within about a century, overfishing had worn them down.",
+      "why": "It opened a new and brutal pearl rush.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1513,
+      "date": "1513 by tradition (first recorded 1579)",
+      "era": "empire",
+      "art": "ball",
+      "title": "La Peregrina, a pearl from Panama",
+      "who": "An unnamed enslaved African diver (by tradition); Spanish crown",
+      "where": "Pearl Islands, Gulf of Panama",
+      "country": "Panama",
+      "text": "La Peregrina is a large pear-shaped pearl from the Gulf of Panama. Tradition says an enslaved African found it, but the diver is not named. It passed to Philip II of Spain. In 2011 it sold at Christie's for $11.8 million.",
+      "why": "The most famous pearls came from the labour of people history did not name.",
+      "sources": [
+        12,
+        11
+      ]
+    },
+    {
+      "year": 1527,
+      "date": "1527",
+      "era": "empire",
+      "art": "scales",
+      "title": "A peak year at Nueva Cádiz",
+      "who": "Divers and merchants of Nueva Cádiz",
+      "where": "Cubagua",
+      "country": "Venezuela",
+      "text": "In 1527, Nueva Cádiz recorded about 1,650 kg of pearls. That means at least 16 million oysters were pulled up. The beds soon declined, and the town was abandoned in the 1540s.",
+      "why": "Wild oyster beds could not survive that rate of harvest.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1528,
+      "date": "c. 1521–1540s",
+      "era": "empire",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Forced divers at Cubagua",
+      "who": "Enslaved Indigenous divers; a few enslaved Africans",
+      "where": "Cubagua island and Nueva Cádiz",
+      "country": "Venezuela",
+      "text": "Spanish settlers set up pearl camps on Cubagua around 1521 and founded Nueva Cádiz in 1528. Most divers were Indigenous people taken by force from other islands and coasts. They dived without gear, some to beds more than 20 metres deep, and the deeper dives killed more of them.",
+      "why": "Much of Europe's 16th-century pearl wealth came from forced and deadly labour.",
+      "sources": [
+        10,
+        5
+      ]
+    },
+    {
+      "year": 1755,
+      "date": "1750s",
+      "era": "science",
+      "art": "leaf",
+      "title": "Linnaeus grows pearls in mussels",
+      "who": "Carl Linnaeus",
+      "where": "Uppsala",
+      "country": "Sweden",
+      "text": "In the 1750s, Linnaeus used the freshwater mussel Unio pictorum to grow round pearls. The Linnean Society calls them the first artificial spherical pearls cultured in any mollusc. He kept the method secret. The pearls are still in the Society's collection.",
+      "why": "It showed a person could make a mussel grow a pearl on purpose.",
+      "box": "start",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852–1902",
+      "era": "science",
+      "art": "lens",
+      "title": "Worms are found behind pearls",
+      "who": "Filippo de Filippi, Raphaël Dubois, H. Lister Jameson and others",
+      "where": "Italy, France, Britain, Ceylon",
+      "country": "Italy",
+      "text": "In 1852, Filippi linked pearls in freshwater mussels to a parasitic flatworm. Others found the same in sea oysters and mussels. By 1902, Jameson had named the larva behind pearls in common mussels.",
+      "why": "Science began to replace the dew story with living parasites.",
+      "box": "start",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "culture",
+      "art": "building",
+      "title": "A pearl farm in Ago Bay",
+      "who": "Kokichi Mikimoto and Ume Mikimoto",
+      "where": "Shinmei inlet, Ago Bay, Mie",
+      "country": "Japan",
+      "text": "Kokichi Mikimoto took a loan in 1888 and began farming Akoya oysters at the Shinmei inlet in Ago Bay. His wife Ume was his partner in the work. In 1892, a red tide killed most of their oysters.",
+      "why": "It was the start of the company that made cultured pearls a world product.",
+      "box": "farm",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "1893",
+      "era": "culture",
+      "art": "ball",
+      "key": true,
+      "title": "The first cultured half-pearls",
+      "who": "Kokichi Mikimoto and Ume Mikimoto",
+      "where": "Ago Bay and Ojima (now Mikimoto Pearl Island), Toba",
+      "country": "Japan",
+      "text": "After placing irritants inside oysters, the Mikimotos found pearls growing attached to the shells. These were hemispherical, not round. Mikimoto patented the method in 1896.",
+      "why": "It was the first commercial success at making an oyster grow a pearl to order.",
+      "box": "farm",
+      "sources": [
+        16,
+        18,
+        4
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1890s–1900s",
+      "era": "culture",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Ama divers tend the first pearl farms",
+      "who": "Ama women divers of Ise-Shima",
+      "where": "Ago Bay and Toba",
+      "country": "Japan",
+      "text": "Ama are women who free-dive for shellfish, a custom said to be over 2,000 years old in Mie. In the early pearl farms, ama found the mother oysters. After grafting, they put the oysters back on the seabed. Rafts and hanging cages later took over that job. Ise-Shima once had some 6,000 ama; fewer than 600 remain.",
+      "why": "Women divers did the underwater work that early pearl culturing relied on.",
+      "box": "farm",
+      "sources": [
+        16,
+        17,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "culture",
+      "art": "leaf",
+      "title": "Culturing the giant South Sea oyster",
+      "who": "William Saville-Kent",
+      "where": "Australia",
+      "country": "Australia",
+      "text": "The Englishman William Saville-Kent cultivated the large Pinctada maxima oyster in 1906. Mikimoto also experimented with the big South Sea oysters in the early 1900s.",
+      "why": "It pointed to the larger pearls that Australia would later grow.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1904–1908",
+      "era": "culture",
+      "art": "scroll",
+      "key": true,
+      "title": "The secret of the round pearl",
+      "who": "Tatsuhei Mise and Tokichi Nishikawa",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Mise implanted 15,000 oysters in 1902 and harvested small round pearls in 1904. In 1907 he got Japan's first patent for a round cultured pearl. Nishikawa, a marine biologist, filed for the same method that year. It became the Mise-Nishikawa method: a bead plus a piece of mantle tissue.",
+      "why": "This method, which grows a pearl sac around a bead, is still the basis of round pearl culture.",
+      "box": "start",
+      "sources": [
+        8,
+        16,
+        18
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1888–1916",
+      "era": "empire",
+      "art": "waterdrop",
+      "title": "Deadly diving at Broome",
+      "who": "Japanese, Malay and Timorese divers",
+      "where": "Broome, Western Australia",
+      "country": "Australia",
+      "text": "Broome became the centre of pearl-shell diving in 1888–89. Divers walked the seabed in helmets at 36 to 45 metres. The bends killed many. In any given year, more than one in ten Japanese divers died. Earlier, in the Torres Strait, most divers had been Aboriginal and Torres Strait Islander people.",
+      "why": "The shell and pearl trade cost many lives long before farming took over.",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "1916",
+      "era": "culture",
+      "art": "scroll",
+      "title": "Mikimoto turns to round pearls",
+      "who": "Kokichi Mikimoto",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Mikimoto won a patent in 1916 for growing round pearls in mantle tissue. The same year he began using the Mise-Nishikawa method. Nishikawa was Mikimoto's son-in-law. He died in 1909.",
+      "why": "Mikimoto's business turned the inventors' method into mass production.",
+      "box": "farm",
+      "sources": [
+        8,
+        21,
+        18
+      ]
+    },
+    {
+      "year": 1917,
+      "date": "c. 1912–1917",
+      "era": "empire",
+      "art": "boat",
+      "title": "Gulf pearling at its peak",
+      "who": "Gulf divers, haulers and boat captains (nakhodas)",
+      "where": "Bahrain and the Gulf coast",
+      "country": "Bahrain",
+      "text": "Gulf pearling peaked around 1911 to 1917. Perhaps 80,000 men worked in it. Divers made about 40 dives a day, down to 30 metres. Merchants lent money to captains, who lent to divers, and many divers stayed in debt for life.",
+      "why": "The wealth of the trade rested on dangerous work and debt.",
+      "sources": [
+        2,
+        27
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "1921 onward",
+      "era": "culture",
+      "art": "scales",
+      "title": "Cultured pearls reach the market",
+      "who": "Mikimoto; Paris pearl dealers",
+      "where": "London and Paris",
+      "country": "France",
+      "text": "Round cultured pearls went on sale in 1921. A London paper called them imitations, and a dispute followed. Mikimoto's company says it won the case, known as the Paris trial, in a French court.",
+      "why": "Cultured pearls won the right to be sold as pearls.",
+      "box": "farm",
+      "sources": [
+        8,
+        23
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925–1931",
+      "era": "science",
+      "art": "xray",
+      "title": "X-rays to tell natural from cultured",
+      "who": "Gem labs in London, Paris and the United States",
+      "where": "London, Paris and the United States",
+      "country": "United Kingdom",
+      "text": "A gem lab opened in London in 1925, another in Paris in 1929, and GIA in 1931. All of them first set out to separate natural from cultured pearls. They used X-rays and a tiny light probe to look for the bead inside.",
+      "why": "A cultured pearl has a bead at its heart, and a natural one does not.",
+      "box": "layers",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1930s",
+      "era": "empire",
+      "art": "boat",
+      "key": true,
+      "title": "The Gulf pearl trade collapses",
+      "who": "Gulf pearling communities",
+      "where": "Bahrain, Qatar and the Trucial coast",
+      "country": "Bahrain",
+      "text": "Cheap Japanese cultured pearls and the 1929 crash hit the Gulf hard. UNESCO calls the fall in the 1930s sudden and catastrophic. Many divers left for jobs in the new oil industry. By about 1950 the old trade had all but ended.",
+      "why": "A farming method in Japan ended a way of life that had lasted two thousand years.",
+      "sources": [
+        3,
+        2,
+        27
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1931–1938",
+      "era": "culture",
+      "art": "building",
+      "title": "Japan's pearl farms multiply",
+      "who": "Japanese pearl farmers",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "In 1931, 51 Japanese farms grew over one million pearls. Farmers then began raising young oysters in tanks instead of collecting them wild. Within seven years, 289 farms grew 11 million pearls.",
+      "why": "Hatchery oysters turned pearl farming into an industry.",
+      "box": "farm",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1954–1956",
+      "era": "global",
+      "art": "boat",
+      "title": "South Sea pearls at Kuri Bay",
+      "who": "Tokuichi Kuribayashi, Alan Gerdau, Junichi Hamaguchi",
+      "where": "Kuri Bay, Western Australia",
+      "country": "Australia",
+      "text": "A Japanese-Australian venture set up a pearl farm at what is now Kuri Bay. GIA's history dates the venture to 1954 and the first commercial farm to 1956. Its team inserted large beads into Pinctada maxima oysters. Pearls could be harvested after about 18 months.",
+      "why": "It began the large white and golden South Sea pearl.",
+      "box": "farm",
+      "sources": [
+        28,
+        22,
+        29
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "early 1960s",
+      "era": "global",
+      "art": "cell",
+      "title": "China starts freshwater pearl culture",
+      "who": "Shanghai University and the Fisheries Institute of Zhanjiang",
+      "where": "China",
+      "country": "China",
+      "text": "Chinese freshwater pearl culture began in the early 1960s. Farmers used Cristaria plicata mussels and inserted mantle tissue only, with no bead. The first pearls were small and crinkled, nicknamed rice krispies.",
+      "why": "Many pearls can grow in one mussel, which later made China the volume leader.",
+      "box": "farm",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "1966",
+      "era": "global",
+      "art": "scales",
+      "title": "Japan's pearl output peaks",
+      "who": "Japanese pearl industry",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Official Japanese production peaked in 1966 at about 148 tonnes. Some estimates were far higher. By then 400 million oysters were in use. By 2022, output had fallen to 13.2 tonnes.",
+      "why": "Japan dominated the world's pearls for most of the 20th century.",
+      "sources": [
+        28,
+        31
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1961–1976",
+      "era": "global",
+      "art": "colour",
+      "key": true,
+      "title": "Black pearls from Tahiti",
+      "who": "Jacques and Hubert Rosenthal, Jean-Claude Brouillet, Robert Wan, Salvador Assael, Robert Crowningshield",
+      "where": "Bora Bora, Manihi and other atolls",
+      "country": "French Polynesia",
+      "text": "A government trial on Bora Bora in 1961 grew good black pearls in Pinctada margaritifera. The first pearl farm opened on Manihi in 1966, and the first black pearls were harvested in 1972. Buyers thought they were dyed until a GIA test in 1970 found the colour natural.",
+      "why": "The black-lipped oyster's dark shell gives these pearls their natural colour.",
+      "box": "shine",
+      "sources": [
+        28,
+        22
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "mid-1970s",
+      "era": "global",
+      "art": "lens",
+      "title": "Lab reports on pearl colour",
+      "who": "GIA",
+      "where": "United States",
+      "country": "United States",
+      "text": "In the mid-1970s, GIA began issuing reports that said whether a pearl's colour was natural. This gave Tahitian black pearls credibility with buyers.",
+      "why": "Being able to prove natural colour opened the market for dark pearls.",
+      "box": "shine",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1970s–1988",
+      "era": "science",
+      "art": "block",
+      "title": "Measuring why nacre is tough",
+      "who": "J. D. Currey; A. P. Jackson, J. F. V. Vincent and R. M. Turner",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "In the 1970s, Currey began testing the strength of nacre. In 1988, Jackson, Vincent and Turner studied its design. Nacre is about 95% mineral, yet it can absorb up to a thousand times more energy before breaking than the pure mineral.",
+      "why": "The thin organic glue between the mineral bricks makes all the difference.",
+      "box": "layers",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992–1995",
+      "era": "global",
+      "art": "ball",
+      "title": "Round freshwater pearls from China",
+      "who": "Chinese pearl farmers",
+      "where": "Zhejiang and other provinces",
+      "country": "China",
+      "text": "Farmers switched to the Hyriopsis cumingii mussel, which grows rounder pearls. The first 'potato' pearls, 3–6 mm, came on the market in 1992. Round Chinese freshwater pearls made their big U.S. debut in 1995.",
+      "why": "Cheap round pearls changed the whole market.",
+      "box": "farm",
+      "sources": [
+        28,
+        30
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "global",
+      "art": "cell",
+      "title": "Disease strikes Japan's oysters",
+      "who": "Akoya pearl farmers",
+      "where": "Shikoku and Mie",
+      "country": "Japan",
+      "text": "In summer 1996 a disease began killing Akoya oysters. At its worst a million died each day. It killed two-thirds of the 300 million oysters in Mie. Crowded farms helped it spread.",
+      "why": "Japan lost its control of the world pearl market.",
+      "box": "oyster",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "2004",
+      "era": "global",
+      "art": "scales",
+      "key": true,
+      "title": "China becomes the giant of pearls",
+      "who": "Chinese freshwater pearl farmers",
+      "where": "China",
+      "country": "China",
+      "text": "By 2004 China grew more than 1,500 tonnes of freshwater pearls a year. That is about 2 billion pearls. Only about half are good enough for jewellery. China is now the leading source of freshwater pearls.",
+      "why": "Pearls went from a luxury of kings to something most people can buy.",
+      "box": "farm",
+      "sources": [
+        28,
+        30
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "global",
+      "art": "building",
+      "title": "Bahrain's pearling becomes World Heritage",
+      "who": "UNESCO; Kingdom of Bahrain",
+      "where": "Muharraq, Bahrain",
+      "country": "Bahrain",
+      "text": "UNESCO inscribed 'Pearling, Testimony of an Island Economy'. It includes 17 buildings in Muharraq, three offshore oyster beds, part of the shore, and a fort. The oyster beds are still alive.",
+      "why": "It keeps the memory of the Gulf's pearl divers and merchants.",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "global",
+      "art": "window",
+      "title": "Glass made tougher by copying nacre",
+      "who": "M. Mirkhalaf, A. Khayer Dastjerdi and F. Barthelat",
+      "where": "McGill University, Montreal",
+      "country": "Canada",
+      "text": "Engineers used a laser to carve tiny wavy cracks into glass, copying the way nacre steers cracks. They filled the gaps with a soft polymer. The glass became about 200 times tougher.",
+      "why": "The oyster's brick-and-mortar trick works in human-made materials too.",
+      "box": "layers",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "August 2021",
+      "era": "global",
+      "art": "lens",
+      "title": "Bricks, mortar and a warming sea",
+      "who": "Gabriela Farfan and Chris Meyer, Smithsonian",
+      "where": "Washington, D.C.",
+      "country": "United States",
+      "text": "Smithsonian curators describe nacre's mineral and organic parts as bricks and mortar. Farmers insert a shell bead and let a pearl grow for two to five years. They warn that as seas turn more acidic, molluscs may spend more nacre repairing their shells and less on pearls.",
+      "why": "Pearls may become records of how a changing sea affects molluscs.",
+      "box": "layers",
+      "sources": [
+        37
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "October 2021",
+      "era": "science",
+      "art": "xray",
+      "key": true,
+      "title": "Counting every layer in a pearl",
+      "who": "Jiseok Gim, Robert Hovden and colleagues",
+      "where": "University of Michigan and partners",
+      "country": "United States",
+      "text": "A team imaged a whole 2.5 mm pearl at nanometre detail. It held 2,615 layers of nacre laid down over 548 days, about four or five a day. When one layer came out too thick, the next tended to be thinner, so errors corrected themselves.",
+      "why": "The oyster keeps its layers even without any template, which is why a pearl can shine.",
+      "box": "layers",
+      "sources": [
+        36,
+        35
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "science",
+      "art": "xray",
+      "title": "A parasite's tunnel inside a natural pearl",
+      "who": "Ravenya Atchalak and Emiko Yazawa, GIA",
+      "where": "GIA laboratory, Bangkok",
+      "country": "Thailand",
+      "text": "X-ray CT scans of a natural pearl showed a twisted tube at its centre. GIA thinks a burrowing worm larva made it. The mantle's cells wrapped the larva in a pearl sac, which then laid down nacre.",
+      "why": "It is direct evidence that many natural pearls start with a parasite, not a grain of sand.",
+      "box": "start",
+      "sources": [
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known natural pearl",
+      "value": "c. 5800–5600 BCE",
+      "who": "Marawah Island, Abu Dhabi, UAE"
+    },
+    {
+      "label": "First artificial spherical pearls in any mollusc (Linnean Society)",
+      "value": "1750s",
+      "who": "Carl Linnaeus, Sweden"
+    },
+    {
+      "label": "First cultured half-pearls in Japan",
+      "value": "1893",
+      "who": "Kokichi and Ume Mikimoto, Japan"
+    },
+    {
+      "label": "First Japanese patent for a round cultured pearl",
+      "value": "1907",
+      "who": "Tatsuhei Mise, Japan"
+    },
+    {
+      "label": "Round cultured pearls first on the market",
+      "value": "1921",
+      "who": "Japan"
+    },
+    {
+      "label": "First black cultured pearls harvested (per GIA)",
+      "value": "1972",
+      "who": "French Polynesia"
+    }
+  ],
+  "people": [
+    {
+      "name": "Pliny the Elder",
+      "life": "23 – 79 CE",
+      "role": "Roman writer and naturalist",
+      "from": "Italy",
+      "note": "Ranked the pearl first among valuables and passed on the idea that pearls grow from dew."
+    },
+    {
+      "name": "Indigenous divers of Cubagua",
+      "life": "",
+      "role": "Forced pearl divers",
+      "from": "Caribbean islands and coasts",
+      "note": "Taken from other islands and coasts to dive without gear for Spanish pearl merchants in the 1520s–1540s."
+    },
+    {
+      "name": "Carl Linnaeus",
+      "life": "",
+      "role": "Naturalist",
+      "from": "Sweden",
+      "note": "Grew round pearls in freshwater mussels in the 1750s and kept the method secret."
+    },
+    {
+      "name": "Filippo de Filippi",
+      "life": "",
+      "role": "Zoologist",
+      "from": "Italy",
+      "note": "In 1852 linked pearls in freshwater mussels to a parasitic flatworm."
+    },
+    {
+      "name": "Kokichi Mikimoto",
+      "life": "1858 – 1954",
+      "role": "Pearl farmer and businessman",
+      "from": "Toba, Japan",
+      "note": "Grew the first commercial cultured half-pearls in 1893 and built the cultured pearl industry."
+    },
+    {
+      "name": "Ume Mikimoto",
+      "life": "",
+      "role": "Pearl farmer",
+      "from": "Toba, Japan",
+      "note": "Kokichi's wife and partner in the Ago Bay pearl farm from 1888."
+    },
+    {
+      "name": "Tokichi Nishikawa",
+      "life": "1874 – 1909",
+      "role": "Marine biologist",
+      "from": "Japan",
+      "note": "Co-developed the bead-and-tissue method for round pearls; Mikimoto's son-in-law."
+    },
+    {
+      "name": "Tatsuhei Mise",
+      "life": "1880 – 1924",
+      "role": "Carpenter and inventor",
+      "from": "Japan",
+      "note": "Grew small round pearls by 1904 and won Japan's first round-pearl patent in 1907."
+    },
+    {
+      "name": "Ama divers of Ise-Shima",
+      "life": "",
+      "role": "Women free divers",
+      "from": "Mie, Japan",
+      "note": "Gathered mother oysters and returned grafted ones to the seabed on the first pearl farms."
+    },
+    {
+      "name": "Gulf pearl divers",
+      "life": "",
+      "role": "Divers and haulers",
+      "from": "Bahrain and the Gulf coast",
+      "note": "Made dozens of breath-hold dives a day, often trapped in debt to boat captains."
+    },
+    {
+      "name": "Japanese divers of Broome",
+      "life": "",
+      "role": "Helmet divers",
+      "from": "Wakayama, Japan",
+      "note": "Worked the deep shell beds off Broome, where in some years more than one in ten died."
+    },
+    {
+      "name": "Tokuichi Kuribayashi",
+      "life": "1896 – 1982",
+      "role": "Pearl company founder",
+      "from": "Japan",
+      "note": "Co-founded the Kuri Bay South Sea pearl farm, which is named after him."
+    },
+    {
+      "name": "Robert Wan",
+      "life": "",
+      "role": "Pearl farmer",
+      "from": "French Polynesia",
+      "note": "A French Polynesian of Chinese descent who built one of the largest black pearl farms from the 1970s."
+    },
+    {
+      "name": "Gabriela Farfan",
+      "life": "",
+      "role": "Mineralogist and curator",
+      "from": "United States",
+      "note": "Smithsonian curator studying pearls as records of changing waters."
+    }
+  ],
+  "series": [
+    {
+      "id": "china",
+      "title": "China's freshwater cultured pearl output",
+      "unit": "tonnes",
+      "log": true,
+      "after": "global",
+      "caption": "Chinese freshwater pearl output grew more than two-thousandfold in 30 years.",
+      "points": [
+        {
+          "year": 1974,
+          "value": 0.58,
+          "label": "1974: about 581 kg (155 kan)"
+        },
+        {
+          "year": 1979,
+          "value": 11.7,
+          "label": "1979: about 11,659 kg (3,109 kan)"
+        },
+        {
+          "year": 1985,
+          "value": 80,
+          "label": "Mid-1980s: about 80 tonnes"
+        },
+        {
+          "year": 1995,
+          "value": 500,
+          "label": "1995: estimates as high as 500 tonnes"
+        },
+        {
+          "year": 1997,
+          "value": 1000,
+          "label": "1997: estimates doubled again, about 1,000 tonnes"
+        },
+        {
+          "year": 2004,
+          "value": 1500,
+          "label": "2004: more than 1,500 tonnes"
+        }
+      ]
+    },
+    {
+      "id": "akoya",
+      "title": "Japan's cultured pearl output",
+      "unit": "tonnes",
+      "log": false,
+      "after": "global",
+      "caption": "Japan's Akoya output fell by about nine-tenths from its 1966 peak.",
+      "points": [
+        {
+          "year": 1966,
+          "value": 148.2,
+          "label": "1966: official peak, 39,522 kan (148.2 tonnes)"
+        },
+        {
+          "year": 1993,
+          "value": 80,
+          "label": "1993: about 80–90 tonnes"
+        },
+        {
+          "year": 2007,
+          "value": 25,
+          "label": "c. 2007: stable at about 25 tonnes"
+        },
+        {
+          "year": 2022,
+          "value": 13.2,
+          "label": "2022: 13.2 tonnes (MAFF)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Nacre is about 95% mineral. Its aragonite bricks are about 0.5 micrometres thick, glued by organic layers only 20–30 nanometres thick.",
+    "One 2.5 mm pearl held 2,615 layers of nacre, laid down over 548 days.",
+    "Pliny wrote that thunder could frighten an oyster into making a smaller pearl.",
+    "China's 1,500 tonnes of freshwater pearls in 2004 came to about 2.14 billion pearls.",
+    "In 1979, about a thousand names could still be read on graves in Broome's Japanese cemetery. Half died in their twenties."
+  ],
+  "sources": [
+    {
+      "title": "World's oldest natural pearl found in Abu Dhabi",
+      "publisher": "The National (UAE)",
+      "url": "https://www.thenationalnews.com/uae/heritage/world-s-oldest-natural-pearl-found-in-abu-dhabi-1.925967"
+    },
+    {
+      "title": "World's Oldest Pearl Found Near Abu Dhabi",
+      "publisher": "Archaeology magazine, Archaeological Institute of America",
+      "url": "https://archaeology.org/news/2019/10/21/191021-abu-dhabi-pearl"
+    },
+    {
+      "title": "History of Pearling",
+      "publisher": "Bahrain Authority for Culture and Antiquities (Pearling Path)",
+      "url": "https://pearlingpath.bh/en/history-of-pearling/"
+    },
+    {
+      "title": "Pearling, Testimony of an Island Economy",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1364/"
+    },
+    {
+      "title": "Pearl: gem encyclopedia",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://www.gia.edu/pearl"
+    },
+    {
+      "title": "Pearl history and lore",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://www.gia.edu/pearl-history-lore"
+    },
+    {
+      "title": "Pliny the Elder, The Natural History, Book 9, Chapter 54: Pearls; how they are produced, and where (trans. Bostock and Riley)",
+      "publisher": "Perseus Digital Library, Tufts University",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=9:chapter=54"
+    },
+    {
+      "title": "Cleopatra's Pearls (B. L. Ullman, The Classical Journal 52:5, 1957)",
+      "publisher": "LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Journals/CJ/52/5/Cleopatras_Pearls*.html"
+    },
+    {
+      "title": "History of Cultured Pearls, Part 1",
+      "publisher": "GIA 4Cs blog",
+      "url": "https://4cs.gia.edu/en-us/blog/history-cultured-pearls-part-1"
+    },
+    {
+      "title": "Icon, ornament: freshwater mussel shell with Buddha pearls (object 17057)",
+      "publisher": "Penn Museum, University of Pennsylvania",
+      "url": "https://collections.penn.museum/collections/object/163717"
+    },
+    {
+      "title": "Navigating Labour Shifts: Early Modern Pearl Fishing in the Caribbean (1521-1563)",
+      "publisher": "International Review of Social History, Cambridge University Press",
+      "url": "https://www.cambridge.org/core/product/0CD94BA698F1762C68C23D3ACCAC3161/core-reader"
+    },
+    {
+      "title": "Most expensive pearl necklace sold at auction",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/72991-most-expensive-pearl-necklace-sold-at-auction"
+    },
+    {
+      "title": "La Peregrina pearl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_Peregrina_pearl"
+    },
+    {
+      "title": "Linnaean Collections",
+      "publisher": "The Linnean Society of London",
+      "url": "https://linnean.org/research-collections/linnaean-collections"
+    },
+    {
+      "title": "Popular Science Monthly, Volume 63 (1903), page 240",
+      "publisher": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/Page:Popular_Science_Monthly_Volume_63.djvu/240"
+    },
+    {
+      "title": "Kokichi Mikimoto",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kokichi_Mikimoto"
+    },
+    {
+      "title": "Pearls (long version)",
+      "publisher": "Japan Tourism Agency multilingual commentary database (MLIT)",
+      "url": "https://www.mlit.go.jp/tagengo-db/common/001544832.docx"
+    },
+    {
+      "title": "Ise-Shima's Pearl Culture",
+      "publisher": "Japan Tourism Agency multilingual commentary database (MLIT)",
+      "url": "https://www.mlit.go.jp/tagengo-db/common/001549414.docx"
+    },
+    {
+      "title": "MIKIMOTO Kokichi",
+      "publisher": "National Diet Library, Japan: Portraits of Modern Japanese Historical Figures",
+      "url": "https://www.ndl.go.jp/portrait/e/datas/396/index.html"
+    },
+    {
+      "title": "The Long History of the Women Divers of Shima",
+      "publisher": "Ministry of Agriculture, Forestry and Fisheries of Japan, on Google Arts & Culture",
+      "url": "https://artsandculture.google.com/story/8wWh68jSExgkKA"
+    },
+    {
+      "title": "Meet the Ama Divers of Toba, Japan",
+      "publisher": "Dive into Toba (Toba City)",
+      "url": "https://toba.gr.jp/en/meet-the-ama-divers-of-toba-japan-preserving-tradition-and-a-bond-with-the-sea/"
+    },
+    {
+      "title": "Mikimoto Kokichi: The Pearl King and His Museum",
+      "publisher": "Nippon.com",
+      "url": "https://www.nippon.com/en/views/b02334/mikimoto-kokichi-the-pearl-king-and-his-museum.html"
+    },
+    {
+      "title": "History of Cultured Pearls, Part Two: The South Seas and Tahiti",
+      "publisher": "GIA 4Cs blog",
+      "url": "https://4cs.gia.edu/en-us/blog/history-cultured-pearls-part-two-south-seas-tahiti/"
+    },
+    {
+      "title": "Brand story",
+      "publisher": "MIKIMOTO",
+      "url": "https://www.mikimoto.com/jp_en/brand-story"
+    },
+    {
+      "title": "Applications of X-ray Radiography and X-ray Computed Microtomography in Gemology (Zhou and Towbin, Gems & Gemology, Winter 2024)",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://gia.edu/gems-gemology/winter-2024-x-ray-imaging"
+    },
+    {
+      "title": "GIA Pearl Research",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://www.gia.edu/pearl-research"
+    },
+    {
+      "title": "Japanese divers in Broome",
+      "publisher": "National Museum of Australia",
+      "url": "https://www.nma.gov.au/defining-moments/resources/japanese-divers-broome"
+    },
+    {
+      "title": "The perils of the pearl divers",
+      "publisher": "The National (UAE)",
+      "url": "https://www.thenationalnews.com/uae/the-perils-of-the-pearl-divers-1.559014"
+    },
+    {
+      "title": "From Single Source to Global Free Market: The Transformation of the Cultured Pearl Industry (Shor, Gems & Gemology, Fall 2007)",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://www.gia.edu/gems-gemology/fall-2007-global-free-market-pearl-industry-shor"
+    },
+    {
+      "title": "Kuri Bay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuri_Bay"
+    },
+    {
+      "title": "Freshwater Pearls vs. Saltwater Pearls: Understanding the Difference",
+      "publisher": "GIA Research News",
+      "url": "https://www.gia.edu/gia-news-research/differences-between-pearl-types"
+    },
+    {
+      "title": "Japan's Pearl Exports See Rapid Recovery in First Half of 2023",
+      "publisher": "Nippon.com",
+      "url": "https://www.nippon.com/en/japan-data/h01772/"
+    },
+    {
+      "title": "The toughening mechanism of nacre and structural materials inspired by nacre (Kakisawa and Sumitomo, 2012)",
+      "publisher": "Science and Technology of Advanced Materials, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5090675/"
+    },
+    {
+      "title": "Overcoming the brittleness of glass through bio-inspiration and micro-architecture (Mirkhalaf, Khayer Dastjerdi and Barthelat, 2014)",
+      "publisher": "Nature Communications",
+      "url": "https://www.nature.com/articles/ncomms4166"
+    },
+    {
+      "title": "Nacre",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nacre"
+    },
+    {
+      "title": "Nacre-inspired composites with different macroscopic dimensions (Zhao, Yang and Guo, 2018)",
+      "publisher": "NPG Asia Materials",
+      "url": "https://www.nature.com/articles/s41427-018-0009-6"
+    },
+    {
+      "title": "The mesoscale order of nacreous pearls (Gim et al., 2021)",
+      "publisher": "Proceedings of the National Academy of Sciences, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8545470/"
+    },
+    {
+      "title": "The True Story Behind How Pearls Are Made",
+      "publisher": "Smithsonian National Museum of Natural History (Smithsonian Voices)",
+      "url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2021/08/05/true-story-behind-how-pearls-are-made/"
+    },
+    {
+      "title": "Tubular Feature in a Natural Pearl (Gems & Gemology Lab Notes, Winter 2023)",
+      "publisher": "Gemological Institute of America (GIA)",
+      "url": "https://www.gia.edu/gems-gemology/winter-2023-lab-notes-tubular-feature-natural-pearl"
+    },
+    {
+      "title": "The fish that's also a pearl",
+      "publisher": "Natural History Museum, London",
+      "url": "https://www.nhm.ac.uk/discover/the-fish-thats-also-a-pearl.html"
+    },
+    {
+      "title": "Pearl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pearl"
+    }
+  ]
+}
